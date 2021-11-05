@@ -7,7 +7,7 @@ Here is the score got in hard mode
 ```
 pip install -r requirements.txt
 ```
-i did this on Python 3.9.5 and Windows
+i did this on Python 3.9.5, Windows and 1920 x 1080 resolution
 
 # Bugs / Quirks
 - [ ] Can't go above 3.3
